@@ -7,7 +7,8 @@
 
 # MITMf
 
-Framework for Man-In-The-Middle attacks
+Framework for Man-In-The-Middle attacks. \
+Better than manually used tools Ettercap, arpspoof, dnsspoof, ...etc. Baically will automate the process.
 
 **This project is no longer being updated. MITMf was written to address the need, at the time, of a modern tool for performing Man-In-The-Middle attacks. Since then many other tools have been created to fill this space, you should probably be using [Bettercap](https://github.com/bettercap/bettercap) as it is far more feature complete and better maintained.**
 
