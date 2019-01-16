@@ -1,4 +1,4 @@
-![Supported Python versions](https://img.shields.io/badge/python-2.7-blue.svg)
+●●●●●●![Supported Python versions](https://img.shields.io/badge/python-2.7-blue.svg)
 ![Latest Version](https://img.shields.io/badge/mitmf-0.9.8%20--%20The%20Dark%20Side-red.svg)
 ![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 [![Code Climate](https://codeclimate.com/github/byt3bl33d3r/MITMf/badges/gpa.svg)](https://codeclimate.com/github/byt3bl33d3r/MITMf)
@@ -36,7 +36,7 @@ existing attacks and techniques.
 Originally built to address the significant shortcomings of other tools (e.g Ettercap, Mallory), it's been almost completely 
 re-written from scratch to provide a modular and easily extendible framework that anyone can use to implement their own MITM attack.
 
-Features
+Features:-
 ========
 
 - The framework contains a built-in SMB, HTTP and DNS server that can be controlled and used by the various plugins, it also contains a modified version of the SSLStrip proxy that allows for HTTP modification and a partial HSTS bypass.
